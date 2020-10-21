@@ -5,6 +5,7 @@ public class WhileLoopIntro {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int time=15;
+		// Test comment
 
 		if(time>12) {//condition is true code will execute 1 time
 			System.out.println("good day");
